@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Queue Demo</title>
+</head>
+<body>
+  <h1>Queue Demo</h1>
+
+  <form method="post">
+    {% csrf_token %}
+    <input type="text" name="message" placeholder="Type a message">
+    <button type="submit">Send</button>
+  </form>
+
+  {% if sent %}
+    <p>Message added to the queue!</p>
+  {% endif %}
+</body>
+</html>
