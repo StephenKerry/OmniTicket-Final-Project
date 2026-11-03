@@ -6,4 +6,7 @@ OmniTicket Academic Project
 Finished first prototype app with textbox and email sent learning the redis and celery tools and also using django to help build the website. Also Finished initial ER diagram
 
 28/10/26
-Read Up an Tech Stack, sorted justifications for why i chose different technologies and updated er diagram
+Read Up an Tech Stack, sorted justifications for why i chose different technologies and updated er diagram 
+
+03/11/2024
+Met up with supervisor, now starting introduction for report
