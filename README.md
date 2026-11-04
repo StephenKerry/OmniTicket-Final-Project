@@ -10,3 +10,6 @@ Read Up an Tech Stack, sorted justifications for why i chose different technolog
 
 03/11/2024
 Met up with supervisor, now starting introduction for report
+
+04/11 
+finishing up intro starting application architecture
