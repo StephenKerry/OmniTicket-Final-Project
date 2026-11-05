@@ -13,3 +13,6 @@ Met up with supervisor, now starting introduction for report
 
 04/11 
 finishing up intro starting application architecture
+
+05/11
+Finalized draft 1 for the final report including the intro and application architecture
